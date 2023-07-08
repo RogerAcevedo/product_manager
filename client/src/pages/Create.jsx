@@ -5,8 +5,8 @@ import { useNavigate } from 'react-router-dom'
 
 const Create = () => {
 
-        // navigate functino to use useNavigate
-        const navigate = useNavigate
+    // navigate functino to use useNavigate
+    const navigate = useNavigate()
 
     // DEFINE STATE
     // STATE name must match the key names in our schema(model)

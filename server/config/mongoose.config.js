@@ -1,7 +1,7 @@
 const mongoose = require("mongoose")
 
 // LINK FROM mongoDB atlas to connect to the cloud
-mongoose.connect('mongodb+srv://rogerhxh:@cluster0.bmeqgwc.mongodb.net/test', {
+mongoose.connect('mongodb+srv://rogerhxh:Vendetta11@cluster0.bmeqgwc.mongodb.net/test', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
